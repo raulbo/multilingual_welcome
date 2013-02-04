@@ -1,6 +1,7 @@
 #include <stdio.h>
-void main(void)
+int main(void)
 {
-	printf("Hello\n");
-	printf("Bom dia\n");
+	printf("Welcome\n");
+	printf("Bem Vindo");
+	return 0;
 }
